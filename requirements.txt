@@ -1,0 +1,6 @@
+openai == 0.28.0
+langchain_community >=0.0.21
+requests >= 2.31.0
+selenium >= 4.18.1
+unstructured >= 0.11.8
+pandas >= 2.0.3
